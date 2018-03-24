@@ -1,0 +1,5 @@
+get 2 bonus point
+1.create test case 
+2.add some color information
+(if the confidence level are between 0.7-0.75, the color will be erythrine.
+if the confidence level are lower than 0.7, the color will be red).
